@@ -1,5 +1,4 @@
 # Frequency-sensitivity-and-magnitude-sensitivity-in-decision-making
-This repository contains code to generate and analyse simulated data that is used in the study of **Frequency-sensitivity and magnitude-sensitivity in decision-making: predictions of a theoretical model-based study** which is currently *under review*.
 
 #### Simulation code provided in this repository has been developed by Thomas Bose as part of the DiODe project (https://diode.group.shef.ac.uk/) and is open source. It may be used and modified for non-commercial use.
 
